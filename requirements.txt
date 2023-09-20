@@ -1,0 +1,12 @@
+oauthlib
+pandas
+pytz
+scikit-learn
+python-multipart
+wget
+fastapi
+uvicorn
+pyyaml
+scipy
+nltk
+pymorphy2
