@@ -37,7 +37,7 @@ Open `TextClassification.ipynb` in Google Colab!
 
 6. Вам станет доступна панель Swagger в котором вы можете передать сообщение из чата в метод POST - `/predict_message_type`
 
-__Пример документации__****
+__Пример документации__
 
 <div align="center">
 	<img width="500" height="350" src="data/example.png" alt="Awesome">
